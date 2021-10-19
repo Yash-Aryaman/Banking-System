@@ -1,2 +1,2 @@
 # College Management System
-This is a project based on bank management. The program helps us to enter, display or alter the details of different accounts in the bank.The program also helps us to know all the details of customers of the bank.
+A college management system to keep a record of students, teachers and admins. An admin can add and delete students and teachers databases. 
